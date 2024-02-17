@@ -12,6 +12,8 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
  
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="taylanpereira" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/taylanpereira?trk=profile-badge">Taylan Pereira</a></div>
+              
 <br>
  
 ### Pra conteúdo sobre programação me segue nas redes abaixo!
